@@ -1,3 +1,4 @@
 <template>
-  <div>Hello</div>
+  <home-welcome />
+  <Counter />
 </template>
