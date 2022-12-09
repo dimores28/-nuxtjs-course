@@ -1,11 +1,9 @@
 <template>
-  <div>
-    <h2>Hello About</h2>
-  </div>
+  <p>Hello Dmytro</p>
 </template>
 
 <script>
 definePageMeta({
-  layout: false
+  layout: "sidebar"
 });
 </script>
